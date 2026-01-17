@@ -1,7 +1,7 @@
 # 💫 About Me
 
 Hi, I'm **Sanchal**  
-An aspiring Data Analyst focused on building strong fundamentals in statistics and data analytics through hands-on learning and real-world practice.
+An aspiring Data Analyst focused on building strong fundamentals in data analytics through hands-on learning and real-world practice.
 
 🔭 **Currently Working On**
 > Strengthening my foundation in statistics and data analytics by practicing concepts on real datasets and documenting my learning on GitHub.
