@@ -22,7 +22,7 @@ A **Data Analyst** building strong fundamentals in **Statistics, Excel Analytics
 
 ## 🚀 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
 
-### 🔹𝐑𝐞𝐭𝐚𝐢𝐥 𝐒𝐚𝐥𝐞𝐬 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 (𝐄𝐱𝐜𝐞𝐥)
+### 🔹[𝐑𝐞𝐭𝐚𝐢𝐥 𝐒𝐚𝐥𝐞𝐬 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 (𝐄𝐱𝐜𝐞𝐥)](https://github.com/Sanchal-01/Excel-data-analytics-projects/tree/main/02_retail-sales-performance-dashboard )
 - Analyzed **10,000+ rows** of retail data.
 - Built KPIs for **Sales, Profit & Quantity**.
 - Identified top/bottom states & seasonal trends.
