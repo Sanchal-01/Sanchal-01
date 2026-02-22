@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Sanchal
+## 👋 Hello & Welcome, I'm Sanchal
 
 A **Data Analyst** building strong fundamentals in **Statistics, Excel Analytics, and SQL** through hands-on projects and real-world datasets.
 > Strengthening my foundation in statistics and data analytics by practicing on real datasets and documenting my learning on GitHub.
