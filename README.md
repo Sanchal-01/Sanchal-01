@@ -1,24 +1,56 @@
-# 💫 About Me
+## 👋 Hi, I'm Sanchal
 
-Hi, I'm **Sanchal**  
-An aspiring Data Analyst focused on building strong fundamentals in data analytics through hands-on learning and real-world practice.
+A **Data Analyst** building strong fundamentals in **Statistics, Excel Analytics, and SQL** through hands-on projects and real-world datasets.
+> Strengthening my foundation in statistics and data analytics by practicing on real datasets and documenting my learning on GitHub.
+---
 
-🔭 **Currently Working On**
-> Strengthening my foundation in statistics and data analytics by practicing concepts on real datasets and documenting my learning on GitHub.
+## 🌱 Current Learning Stats:
+- ✅ Statistics for Data Analytics and Data Science
+- ✅ Excel (Advanced – Dashboards, KPIs, Pivot Tables)
+- 🔄 SQL (Learning phase)
+- ⏳ Python & BI Tools (Next)
+---
 
-👯 **Looking to Collaborate On**
-> Beginner-friendly data analysis projects involving data cleaning, exploratory data analysis (EDA), and basic visualizations.
+## 📊 What I Work Upon:
+- Data cleaning & preprocessing.
+- Sales & business performance analysis.
+- KPI design & dashboard storytelling.
+- Exploratory Data Analysis (EDA).
+- Turning raw data into meaningful insights.
 
-🤝 **Looking for Help With**
-> Improving my analytical thinking, understanding real-world datasets, and applying statistical concepts effectively.
+---
 
-🌱 **Currently Learning**
-> Statistics for Data Analytics, Excel for data cleaning, SQL basics, Python for analysis, and Power BI fundamentals.
+## 🚀 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
 
-⚡ **Fun Fact**
+### 🔹𝐑𝐞𝐭𝐚𝐢𝐥 𝐒𝐚𝐥𝐞𝐬 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 (𝐄𝐱𝐜𝐞𝐥)
+- Analyzed **10,000+ rows** of retail data.
+- Built KPIs for **Sales, Profit & Quantity**.
+- Identified top/bottom states & seasonal trends.
+- Category & customer-level analysis.
+- Interactive dashboards using Pivot Tables & Slicers.
+
+### 🔹 𝐒𝐰𝐢𝐠𝐠𝐲 𝐒𝐚𝐥𝐞𝐬 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 (𝐄𝐱𝐜𝐞𝐥)
+- Worked on **~197,000 food delivery records**.
+- City & state-wise sales performance.
+- Veg vs Non-Veg trend analysis.
+- High-revenue cities & weekend demand patterns.
+- Dynamic dashboards for business storytelling.
+---
+
+## 👯 Looking to Collaborate On
+> Beginner-friendly data analytics projects involving data cleaning, EDA, and advanced visualizations.
+
+
+
+## 🤝 Looking for Help With
+> Improving analytical thinking, understanding real-world datasets, and applying statistical concepts effectively.
+
+
+
+## ⚡ Fun Fact
 > I enjoy breaking down complex data concepts into simple, easy-to-understand notes for revision.
 
-
+---
 
 # 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aMgKB3G2aF)
