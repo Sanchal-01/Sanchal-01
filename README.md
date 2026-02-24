@@ -29,7 +29,7 @@ A **Data Analyst** building strong fundamentals in **Statistics, Excel Analytics
 - Category & customer-level analysis.
 - Interactive dashboards using Pivot Tables & Slicers.
 
-### 🔹 𝐒𝐰𝐢𝐠𝐠𝐲 𝐒𝐚𝐥𝐞𝐬 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 (𝐄𝐱𝐜𝐞𝐥)
+### 🔹[𝐒𝐰𝐢𝐠𝐠𝐲 𝐒𝐚𝐥𝐞𝐬 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 (𝐄𝐱𝐜𝐞𝐥)](https://github.com/Sanchal-01/Excel-data-analytics-projects/tree/main/03_Swiggy%20Sales%20Analysis%20Dashboard)
 - Worked on **~197,000 food delivery records**.
 - City & state-wise sales performance.
 - Veg vs Non-Veg trend analysis.
