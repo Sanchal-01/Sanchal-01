@@ -15,23 +15,22 @@ A **Data Analyst** building strong fundamentals in **Statistics, Excel Analytics
 - 🔄 SQL (Learning phase)
 - ⏳ Python & BI Tools (Next) 
 ---
-
 <table>
 <tr>
-<td width="65%">
+<td width="80%">
 
 ## 📊 What I Work Upon:
 
-• Data cleaning & preprocessing  
-• Sales & business performance analysis  
-• KPI design & dashboard storytelling  
-• Exploratory Data Analysis (EDA)  
-• Turning raw data into meaningful insights  
+• Data cleaning & preprocessing.  
+• Sales & business performance analysis.  
+• KPI design & dashboard storytelling.  
+• Exploratory Data Analysis (EDA).  
+• Turning raw data into meaningful insights.  
 
 </td>
 
 <td width="35%">
-<img align="right" alt="Coding" width="250" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif"  width="100%">
+<img align="right" alt="Coding" width="240" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif"  width="100%">
 </td>
 
 </tr>
