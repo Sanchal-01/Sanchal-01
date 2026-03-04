@@ -1,24 +1,41 @@
+<p align="center">
+  <img src="Assets/banner2.png" alt="Data Analyst Banner" />
+</p>
+
+
 ## 👋 Hello & Welcome, I'm Sanchal
 
 A **Data Analyst** building strong fundamentals in **Statistics, Excel Analytics, and SQL** through hands-on projects and real-world datasets.
-> Strengthening my foundation in statistics and data analytics by practicing on real datasets and documenting my learning on GitHub.
+> Strengthening my foundation data analytics by practicing on real datasets and documenting my learning on GitHub.
 ---
 
 ## 🌱 Current Learning Stats:
 - ✅ Statistics for Data Analytics and Data Science
 - ✅ Excel (Advanced – Dashboards, KPIs, Pivot Tables)
 - 🔄 SQL (Learning phase)
-- ⏳ Python & BI Tools (Next)
+- ⏳ Python & BI Tools (Next) 
 ---
+
+<table>
+<tr>
+<td width="65%">
 
 ## 📊 What I Work Upon:
-- Data cleaning & preprocessing.
-- Sales & business performance analysis.
-- KPI design & dashboard storytelling.
-- Exploratory Data Analysis (EDA).
-- Turning raw data into meaningful insights.
 
----
+• Data cleaning & preprocessing  
+• Sales & business performance analysis  
+• KPI design & dashboard storytelling  
+• Exploratory Data Analysis (EDA)  
+• Turning raw data into meaningful insights  
+
+</td>
+
+<td width="35%">
+<img align="right" alt="Coding" width="250" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif"  width="100%">
+</td>
+
+</tr>
+</table>
 
 ## 🚀 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
 
