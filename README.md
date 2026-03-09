@@ -36,21 +36,7 @@ A **Data Analyst** building strong fundamentals in **Statistics, Excel Analytics
 </tr>
 </table>
 
-## 🚀 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
 
-### 🔹[𝐑𝐞𝐭𝐚𝐢𝐥 𝐒𝐚𝐥𝐞𝐬 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 (𝐄𝐱𝐜𝐞𝐥)](https://github.com/Sanchal-01/Excel-data-analytics-projects/tree/main/02_retail-sales-performance-dashboard )
-- Analyzed **10,000+ rows** of retail data.
-- Built KPIs for **Sales, Profit & Quantity**.
-- Identified top/bottom states & seasonal trends.
-- Category & customer-level analysis.
-- Interactive dashboards using Pivot Tables & Slicers.
-
-### 🔹[𝐒𝐰𝐢𝐠𝐠𝐲 𝐒𝐚𝐥𝐞𝐬 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 (𝐄𝐱𝐜𝐞𝐥)](https://github.com/Sanchal-01/Excel-data-analytics-projects/tree/main/03_Swiggy%20Sales%20Analysis%20Dashboard)
-- Worked on **~197,000 food delivery records**.
-- City & state-wise sales performance.
-- Veg vs Non-Veg trend analysis.
-- High-revenue cities & weekend demand patterns.
-- Dynamic dashboards for business storytelling.
 ---
 
 ## 👯 Looking to Collaborate On
