@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="Assets/banner_New.PNG" alt="Data Analyst Banner" />
+</p>
+
+
+
 ## 👋 Hello & Welcome, I'm Sanchal
 
 A **Data Analyst** building strong fundamentals in **Statistics, Excel Analytics, and SQL** through hands-on projects and real-world datasets.
