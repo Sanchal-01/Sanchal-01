@@ -20,7 +20,7 @@ A **Data Analyst** building strong fundamentals in **Statistics, Excel Analytics
 ---
 <table>
 <tr>
-<td width="200%">
+<td width="300%">
 
 ## 📊 What I Work Upon:
 
