@@ -6,16 +6,17 @@
 
 ## 👋 Hello & Welcome, I'm Sanchal
 
-A **Data Analyst** building strong fundamentals in **Statistics, Excel Analytics, and SQL** through hands-on projects and real-world datasets.
-> Strengthening my foundation data analytics by practicing on real datasets and documenting my learning on GitHub.
+A Data Analytics and Machine Learning enthusiast building strong foundations in Statistics, SQL, Python, and Deep Learning through hands-on projects, real-world datasets, and AI-driven applications.
+> I like learning in public, building projects, and documenting my journey on GitHub.
 ---
 
 
-## 🌱 Current Learning Stats:
-- ✅ Statistics for Data Analytics and Data Science
-- ✅ Excel (Advanced – Dashboards, KPIs, Pivot Tables)
-- 🔄 SQL (Learning phase)
-- 🔄 Python & ⏳ BI Tools
+## 🌱 Current Learning Journey:
+- ✅ Statistics for Data Analytics and Data Science.
+- ✅ Excel (Advanced – Dashboards, KPIs, Pivot Tables).
+- 🔄 SQL for Data Extraction & Analysis.
+- 🔄 Python Programming and Python for Data Analysis & Automation.
+- ⏳ BI Tools & Streamlit Deployment.
   
 ---
 <table>
@@ -25,12 +26,14 @@ A **Data Analyst** building strong fundamentals in **Statistics, Excel Analytics
 ## 📊 What I Work Upon:
 
 - Data cleaning & preprocessing using Excel & SQL.
-- Sales analysis & business performance tracking.
-- KPI design and dashboard storytelling.
-- Exploratory Data Analysis (EDA).
-- SQL-based data extraction and transformation.
-- Building foundations in Python for data analysis.
-- Converting raw data into actionable insights.
+- Exploratory Data Analysis (EDA) on real-world datasets.
+- KPI dashboards and business performance storytelling.
+- Business performance monitoring and sales trend analysis.
+- SQL-based querying and data transformation.
+- Building foundations in Machine Learning and Deep Learning.
+- Exploring CNN/RNN architectures using TensorFlow & Keras.
+- Practicing ML workflows using Scikit-learn on real datasets.
+
 
 </td>
 
@@ -51,7 +54,7 @@ A **Data Analyst** building strong fundamentals in **Statistics, Excel Analytics
 
 
 ## 💻 Tech Stack:
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 
 ---
@@ -60,7 +63,10 @@ A **Data Analyst** building strong fundamentals in **Statistics, Excel Analytics
 > Beginner-friendly data analytics projects involving data cleaning, EDA, and advanced visualizations.
 
 ## ⚡ Fun Fact
-> I enjoy breaking down complex data concepts into simple, easy-to-understand notes for revision.
+> I enjoy simplifying complex Machine Learning and Data Analytics concepts into beginner-friendly notes, visual explanations, and practical implementations.
+
+
+> THANKS for visiting my profile o_o
 
 
 
