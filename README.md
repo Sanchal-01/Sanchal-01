@@ -19,9 +19,6 @@ A Data Analytics and Machine Learning enthusiast building strong foundations in 
 - ⏳ BI Tools & Streamlit Deployment.
   
 ---
-<table>
-<tr>
-<td width="300%">
 
 ## 📊 What I Work Upon:
 
@@ -35,14 +32,6 @@ A Data Analytics and Machine Learning enthusiast building strong foundations in 
 - Practicing ML workflows using Scikit-learn on real datasets.
 
 
-</td>
-
-<td width="35%">
-<img align="right" alt="Coding" width="350" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif"  width="100%">
-</td>
-
-</tr>
-</table>
 
 
 ## 🌐 Socials
