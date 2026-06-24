@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="Assets/banner_New.PNG" alt="Data Analyst Banner" />
-</p>
+</p> -->
 
 
 
