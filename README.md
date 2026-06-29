@@ -10,7 +10,7 @@
 <h1 align="center">Hi 👋, I'm Sanchal Kumar</h1>
 
 <h3 align="center">
-Data Analytics • Machine Learning • AI
+Data Analytics • Machine Learning • AI Applications
 </h3>
 
 <p align="center">
