@@ -3,33 +3,40 @@
 </p> -->
 
 
+<!-- =========================
+      GITHUB PROFILE README
+========================= -->
 
-## 👋 Hello & Welcome, I'm Sanchal
+<h1 align="center">Hi 👋, I'm Sanchal Kumar</h1>
 
+<h3 align="center">
+Data Analytics • Machine Learning • AI
+</h3>
+
+<p align="center">
 A Data Analytics and Machine Learning enthusiast building strong foundations in Statistics, SQL, Python, and Deep Learning through hands-on projects, real-world datasets, and AI-driven applications.
-> I like learning in public, building projects, and documenting my journey on GitHub.
+</p>
+
+> Passionate about building projects that solve real world problems and documenting the learning process through GitHub.
 ---
 
 
-## 🌱 Current Learning Journey:
-- ✅ Statistics for Data Analytics and Data Science.
+## 🌱 Current Journey:
+- ✅ Python Programming
+- ✅ Statistics for Data Science and Analytics
 - ✅ Excel (Advanced – Dashboards, KPIs, Pivot Tables).
-- 🔄 SQL for Data Extraction & Analysis.
-- 🔄 Python Programming and Python for Data Analysis & Automation.
-- ⏳ BI Tools & Streamlit Deployment.
-  
+- 🔄 Advanced SQL for Data Extraction & Analysis.
+- 🔄 Machine Learning and Deep Learning
+- ⏳ BI Tools
+
 ---
 
 ## 📊 What I Work Upon:
 
-- Data cleaning & preprocessing using Excel & SQL.
-- Exploratory Data Analysis (EDA) on real-world datasets.
-- KPI dashboards and business performance storytelling.
-- Business performance monitoring and sales trend analysis.
-- SQL-based querying and data transformation.
-- Building foundations in Machine Learning and Deep Learning.
-- Exploring CNN/RNN architectures using TensorFlow & Keras.
-- Practicing ML workflows using Scikit-learn on real datasets.
+- Analyzing real-world datasets using **Excel, SQL, and Python** to uncover trends, solve business problems, and generate actionable insights.
+- Building interactive dashboards and KPI reports that transform raw data into clear business stories for better decision-making.
+- Developing machine learning and deep learning projects while continuously exploring practical AI applications using TensorFlow, Keras, and Streamlit.
+- Performing data cleaning, exploratory data analysis (EDA), and SQL-based analysis to understand customer behavior, sales performance, and operational metrics.
 
 
 
@@ -48,14 +55,20 @@ A Data Analytics and Machine Learning enthusiast building strong foundations in 
 
 ---
 
+
+
 ## 👯 Looking to Collaborate On
-> Beginner-friendly data analytics projects involving data cleaning, EDA, and advanced visualizations.
+> Open-source projects in **Data Analytics, SQL, Machine Learning, AI Applications, and dashboard development**.
+> Always happy to collaborate on projects that solve real-world problems.
 
 ## ⚡ Fun Fact
-> I enjoy simplifying complex Machine Learning and Data Analytics concepts into beginner-friendly notes, visual explanations, and practical implementations.
+> Every project on this profile represents something I genuinely wanted to understand—not just another tutorial I followed.
 
 
-> THANKS for visiting my profile o_o
+> Thanks for stopping by! Feel free to explore my repositories, and if you find something useful, don't forget to leave a ⭐.<br>
+> I'm always open to learning, collaborating, and connecting with fellow developers and data enthusiasts.
+
+Happy Coding!!
 
 
 
