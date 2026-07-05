@@ -2,12 +2,7 @@
   <img src="Assets/banner_New.PNG" alt="Data Analyst Banner" />
 </p> -->
 
-
-<!-- =========================
-      GITHUB PROFILE README
-========================= -->
-
-<h1 align="center">Hi 👋, I'm Sanchal Kumar</h1>
+<h1 align="center">Hi 👋, I'm Sanchal </h1>
 
 <h3 align="center">
 Data Analytics • Machine Learning • AI Applications
