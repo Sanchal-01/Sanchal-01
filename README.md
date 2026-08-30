@@ -9,7 +9,7 @@ Data Analytics • Machine Learning • AI Applications
 </h3>
 
 <p align="center">
-A Data Analytics and Machine Learning enthusiast building strong foundations in Statistics, SQL, Python, and Deep Learning through hands-on projects, real-world datasets, and AI-driven applications.
+A Data Analytics and Machine Learning enthusiast with a strong foundation in Statistics, SQL, Python, and Deep Learning. Experienced in building AI-driven applications and handling the entire data pipeline for ML/DL projects - from self-curating specialized datasets to analyzing complex, real-world data.
 </p>
 
 > Passionate about building projects that solve real world problems and documenting the learning process through GitHub.
