@@ -20,7 +20,7 @@ A Data Analytics and Machine Learning enthusiast with a strong foundation in Sta
 - ✅ Python Programming
 - ✅ Statistics for Data Science and Analytics
 - ✅ Excel (Advanced – Dashboards, KPIs, Pivot Tables).
-- 🔄 Advanced SQL for Data Extraction & Analysis.
+- ✅ Advanced SQL for Data Extraction & Analysis.
 - 🔄 Machine Learning and Deep Learning
 - ⏳ BI Tools
 
