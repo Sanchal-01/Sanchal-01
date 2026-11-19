@@ -19,9 +19,9 @@ A Computer Science undergraduate building deep learning systems, with a strong f
 ## Current Journey
 - ✅ Python Programming
 - ✅ Statistics for Data Science and Analytics
-- ✅ Excel (Advanced: Dashboards, KPIs, Pivot Tables)
+- ✅ Advanced Excel (Dashboards, KPIs, Pivot Tables)
 - ✅ Advanced SQL for Data Extraction and Analysis
-- ✅ Machine Learning and Deep Learning
+- 🔄 Machine Learning and Deep Learning
 - 🔄 LLMs, RAG, and Agentic AI
 - ⏳ BI Tools
 
