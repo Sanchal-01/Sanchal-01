@@ -37,16 +37,10 @@ A Computer Science undergraduate building deep learning systems, with a strong f
 
 ## Featured Projects
 
-- **[CaliPlant AI](https://github.com/Sanchal-01/CaliPlant_AI)**: identifies 51 California plant species from a single photo. Built solo over five iterations, from a model that barely learned to **86.09%** validation accuracy using a fine-tuned MobileNetV2. `Python` `TensorFlow` `Keras` `Streamlit`
+- **[CaliPlant AI](https://github.com/Sanchal-01/CaliPlant_AI)**: identifies 51 California plant species from a single photo. Built solo over five iterations, from a model that barely learned to **86.09%** validation accuracy using a fine-tuned MobileNetV2. `Python` `TensorFlow` `Streamlit` `Keras`  `Data collection & Preprcessing`
 - **[KrishiNetra AI](https://github.com/Sanchal-01/KrishiNetra-AI)**: plant disease detection across five crops using crop-specific CNNs, deployed live with Streamlit. Four crops reach **98%+** test accuracy. Built with a teammate. `Python` `TensorFlow` `Keras` `Streamlit`
 - **[SkyGuard AI](https://github.com/RanuGaurav05/skyguard-ai)**: multi-layer anomaly detection for automatic weather station data, built for Smart India Hackathon. I co-built the AI/ML core: a physics rule engine, an LSTM autoencoder, and a rolling-std stuck-sensor check that lifted recall on frozen sensors from 3% to **67.1%**. Team project, still in progress. `Python` `TensorFlow` `Keras` `Scikit-learn`
 - **[ClarificAI](https://github.com/Sanchal-01/LLM-Based-AI-Agent)**: RAG-powered PDF assistant that answers questions grounded in your own document, using FAISS vector search and the Gemini LLM. `Python` `RAG` `FAISS` `Gemini`
-
-## More Projects
-
-- **[Retail Sales Dashboard](https://github.com/Sanchal-01/Excel-data-analytics-projects)**: interactive Excel dashboard on 10,000+ rows of retail data, covering KPIs, pivot tables, and slicers. `Excel` `Pivot Tables`
-- **[Statistics for Data Analytics and Data Science](https://github.com/Sanchal-01/Statistics-for-Data-Analytics-and-Data-Science)**: self-made notes on core statistics concepts for analytics and data science. `Statistics`
-- **[Local Host Survival](https://github.com/Sanchal-01/local-host-survival)**: offline-first communication portal built with Flask and WebSockets to restore local connectivity without internet. `Python` `Flask` `WebSockets`
 
 ## Socials
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aMgKB3G2aF)
